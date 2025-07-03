@@ -2,27 +2,21 @@
 <rss version="2.0"
      xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Mon App Appcast</title>
+    <title>Mon App - Appcast</title>
+    <link>http://tonserveur/appcast.xml</link>
+    <description>Historique des mises à jour de Mon App</description>
+    <language>fr</language>
+
     <item>
-      <title>Version 2.0</title>
-      <description>desc Версия</description>
-      <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-      <enclosure url="http://tonserveur/MonApp_v2.0.zip" sparkle:version="2.0" />
-      <sparkle:tags><sparkle:criticalUpdate/></sparkle:tags>
+      <title>Version 0.1.0</title>
+      <description>Première version stable de l'application</description>
+      <pubDate>Wed, 03 Jul 2025 12:00:00 +0000</pubDate>
+      <enclosure
+        url="http://tonserveur/MonApp_v0.1.0.zip"
+        sparkle:version="0.1.0"
+        length="12345678"
+        type="application/zip" />
     </item>
-    <item>
-      <title>Version 3.0</title>
-      <description>Minor updates and improvements.</description>
-      <enclosure url="http://tonserveur/MonApp_v3.0.zip"
-                 sparkle:version="3.0" sparkle:os="android"/>
-      <sparkle:deltas>
-        <enclosure url="http://tonserveur/patches/3.0_from_2.0.patch"
-                   sparkle:version="3.0" sparkle:deltaFrom="2.0"
-                   length="1235" type="application/octet-stream"
-                   sparkle:edSignature="..."/>
-        <!-- tu peux copier/embed plusieurs patchs -->
-      </sparkle:deltas>
-    </item>
-    <!-- ajoute d'autres items comme ta version 4.0 ou 5.0 -->
+
   </channel>
 </rss>
