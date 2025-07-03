@@ -13,7 +13,7 @@
       <pubDate>Wed, 03 Jul 2025 12:00:00 +0000</pubDate>
       <enclosure
         url="http://tonserveur/MonApp_v0.1.0.zip"
-        sparkle:version="0.1.0"
+        sparkle:version="0.2.0"
         length="12345678"
         type="application/zip" />
     </item>
