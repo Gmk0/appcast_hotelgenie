@@ -8,12 +8,18 @@
     <language>fr</language>
 
     <item>
-      <title>Version 0.1.0</title>
-      <description>Première version stable de l'application</description>
-      <pubDate>Wed, 03 Jul 2025 12:00:00 +0000</pubDate>
+      <title>Version 1.1.2</title>
+      <description>
+        ✅ Nouvelle mise à jour 1.1.2
+        - Améliorations de performance
+        - Corrections de bugs
+        - Amélioration de l’expérience utilisateur
+      </description>
+      <pubDate>Thu, 04 Jul 2025 12:00:00 +0000</pubDate>
       <enclosure
-        url="http://tonserveur/MonApp_v0.1.0.zip"
-        sparkle:version="0.2.0"
+        url="https://hotelgenie.pro/downloads/HotelGenie_v1.1.1.apk"
+        sparkle:version="112"
+        sparkle:shortVersionString="1.1.2"
         length="12345678"
         type="application/zip" />
     </item>
