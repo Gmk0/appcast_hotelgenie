@@ -2,27 +2,50 @@
 <rss version="2.0"
      xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Mon App - Appcast</title>
-    <link>http://tonserveur/appcast.xml</link>
-    <description>Historique des mises à jour de Mon App</description>
+    <title>HotelGenie - Appcast</title>
+    <link>https://hotelgenie.pro/appcast.xml</link>
+    <description>Historique des mises à jour de HotelGenie</description>
     <language>fr</language>
 
+    <!-- Version 1.1.7 -->
+    <item>
+      <title>Version 1.1.7</title>
+      <description><![CDATA[
+        <h2>🚀 Nouveautés de la version 1.1.7</h2>
+        <ul>
+          <li>📴 Mode hors ligne complet pour les réservations</li>
+          <li>🎨 Nouvelle interface utilisateur améliorée</li>
+          <li>📱 Meilleure compatibilité avec Android 13+</li>
+          <li>🛠️ Corrections de bugs critiques</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 13 Jul 2025 12:00:00 +0000</pubDate>
+      <sparkle:version>1.1.7</sparkle:version>
+      <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
+      <enclosure
+        url="https://api.codemagic.io/artifacts/7d58eb18-681b-4af3-becc-cc563e1d19bc/4efdb8bb-7d06-4804-b241-f8e480ff7aa2/app-release.apk"
+        length="23456789"
+        type="application/zip"/>
+    </item>
+
+    <!-- Version 1.1.3 -->
     <item>
       <title>Version 1.1.3</title>
-      <description>
-        ✅ Nouvelle mise à jour 
-        - Améliorations de performance
-        - Corrections de bugs
-        - Amélioration de l’expérience utilisateur
-      </description>
+      <description><![CDATA[
+        <h2>✅ Changements dans la version 1.1.3</h2>
+        <ul>
+          <li>🔧 Améliorations générales des performances</li>
+          <li>🐛 Résolution de bugs mineurs</li>
+          <li>🙌 Expérience utilisateur optimisée</li>
+        </ul>
+      ]]></description>
       <pubDate>Thu, 06 Jul 2025 12:00:00 +0000</pubDate>
+      <sparkle:version>1.1.3</sparkle:version>
+      <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
       <enclosure
-        url="https://hotelgenie.pro/downloads/HotelGenie_v1.1.3.apk"
-       sparkle:version="1.1.3"
-       sparkle:shortVersionString="1.1.3"
-
+        url="https://hotelgenie.pro/downloads/HotelGenie_v1.1.3.zip"
         length="12345678"
-        type="application/zip" />
+        type="application/zip"/>
     </item>
 
   </channel>
