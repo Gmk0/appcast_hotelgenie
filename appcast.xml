@@ -16,7 +16,7 @@
       <sparkle:version>1.1.9</sparkle:version>
       <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
       <enclosure
-        url="https://hotelgenie.pro/download/HotelGenie.apk"
+        url="https://hotelgenie.pro/downloads/HotelGenie.apk"
         length="23456789"
         type="application/zip"/>
     </item>
@@ -28,7 +28,7 @@
       <sparkle:version>1.1.8</sparkle:version>
       <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
       <enclosure
-        url="https://hotelgenie.pro/download/HotelGenie.apk"
+        url="https://hotelgenie.pro/downloads/HotelGenie.apk"
         length="23456789"
         type="application/zip"/>
     </item>
@@ -43,7 +43,7 @@
       <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
       <enclosure
 <<<<<<< HEAD
-        url="https://hotelgenie.pro/download/HotelGenie.apk"
+        url="https://hotelgenie.pro/downloads/HotelGenie.apk"
 =======
         url="https://api.codemagic.io/artifacts/.eJwVwc2SQzAAAOB36b0zYojtoQc0qrqlpci4mIj_VEsQ6ul39vt2lf7P-NCRBSQG2yCZSVJjHZ0Fb6nlgJfbdnoYX1I3twnq80ioDFwVV6MrltPG3iKterp3lV01yDMkD6XolgWGZLTv52pKpX7-jlnLz2QM92wTECZsaoMs85EWKI9ENft1wZ0nM1oPVg-lgxfO_BfDgqUN0cHPUJpz8sJ1fwqvk0RB6jGe-Q4QyP9aNoqsbROf9ZSuarv4H_OeR85D3j8Vpy_W-LLGInxzxaBN9ajm52wWOXr7Br6N8GZ01nuLPGQBEhDSkKIBZTSoJjocXuVEfY1LNa6Ox90fyz5kcw.l-idwLgnUuPYUYSvaw-yquSv7-A"
 >>>>>>> 769596e27ee9f9f73f420552d6bf2e3e7b4830fa
