@@ -7,12 +7,10 @@
     <description>Historique des mises à jour de HotelGenie</description>
     <language>fr</language>
 
-        <!-- Version 1.1.7 -->
-
+    <!-- Version 1.1.9 -->
     <item>
       <title>Version 1.1.9</title>
-
-      <pubDate> 12 Aout 2025 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:00:00 +0000</pubDate>
       <sparkle:version>1.1.9</sparkle:version>
       <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
       <enclosure
@@ -20,11 +18,11 @@
         length="23456789"
         type="application/zip"/>
     </item>
-    
+
+    <!-- Version 1.1.8 -->
     <item>
       <title>Version 1.1.8</title>
-
-      <pubDate> 17 Jul 2025 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Jul 2025 12:00:00 +0000</pubDate>
       <sparkle:version>1.1.8</sparkle:version>
       <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
       <enclosure
@@ -32,30 +30,22 @@
         length="23456789"
         type="application/zip"/>
     </item>
-    
 
     <!-- Version 1.1.7 -->
     <item>
       <title>Version 1.1.7</title>
-
       <pubDate>Sun, 13 Jul 2025 12:00:00 +0000</pubDate>
       <sparkle:version>1.1.7</sparkle:version>
       <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
       <enclosure
-<<<<<<< HEAD
         url="https://hotelgenie.pro/downloads/HotelGenie.apk"
-=======
-        url="https://api.codemagic.io/artifacts/.eJwVwc2SQzAAAOB36b0zYojtoQc0qrqlpci4mIj_VEsQ6ul39vt2lf7P-NCRBSQG2yCZSVJjHZ0Fb6nlgJfbdnoYX1I3twnq80ioDFwVV6MrltPG3iKterp3lV01yDMkD6XolgWGZLTv52pKpX7-jlnLz2QM92wTECZsaoMs85EWKI9ENft1wZ0nM1oPVg-lgxfO_BfDgqUN0cHPUJpz8sJ1fwqvk0RB6jGe-Q4QyP9aNoqsbROf9ZSuarv4H_OeR85D3j8Vpy_W-LLGInxzxaBN9ajm52wWOXr7Br6N8GZ01nuLPGQBEhDSkKIBZTSoJjocXuVEfY1LNa6Ox90fyz5kcw.l-idwLgnUuPYUYSvaw-yquSv7-A"
->>>>>>> 769596e27ee9f9f73f420552d6bf2e3e7b4830fa
         length="23456789"
         type="application/zip"/>
     </item>
-    
 
     <!-- Version 1.1.3 -->
     <item>
       <title>Version 1.1.3</title>
-   
       <pubDate>Thu, 06 Jul 2025 12:00:00 +0000</pubDate>
       <sparkle:version>1.1.3</sparkle:version>
       <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
